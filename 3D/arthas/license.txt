@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arthas World Of Warcraft
+* source:	https://sketchfab.com/3d-models/arthas-world-of-warcraft-438349b5c7f64c1a84f543e2cde43a0d
+* author:	Warcraft-3D-Models (https://sketchfab.com/Warcraft-3D-Models)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arthas World Of Warcraft" (https://sketchfab.com/3d-models/arthas-world-of-warcraft-438349b5c7f64c1a84f543e2cde43a0d) by Warcraft-3D-Models (https://sketchfab.com/Warcraft-3D-Models) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

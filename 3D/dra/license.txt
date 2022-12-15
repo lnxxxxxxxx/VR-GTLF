@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragon Flail
+* source:	https://sketchfab.com/3d-models/dragon-flail-a1ddde08ead04e3aa271f0a9c8bc0088
+* author:	Roeland Van Sichem De Combe (https://sketchfab.com/Roeland)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragon Flail" (https://sketchfab.com/3d-models/dragon-flail-a1ddde08ead04e3aa271f0a9c8bc0088) by Roeland Van Sichem De Combe (https://sketchfab.com/Roeland) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

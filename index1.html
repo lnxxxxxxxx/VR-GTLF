@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene >
+      
+        <a-entity>
+            <a-camera wasd-controls="acceleration:  80;  fly:  true"
+            >
+              
+
+            </a-camera>
+        </a-entity>
+        <a-assets>
+        <a-asset-item id="earth"
+        src="3D/wow/scene.gltf"></a-asset-item>
+        <a-asset-item id="orc"
+        src="3D/orcos/scene.gltf" ></a-asset-item>
+        <a-asset-item id="arthas"
+        src="3D/arthas/scene.gltf" ></a-asset-item>
+        <a-asset-item id="tauren"
+        src="3D/tauren/scene.gltf"></a-asset-item>
+        <a-asset-item id="diablo"
+        src="3D/diablo/scene.gltf"></a-asset-item>
+        <a-asset-item id="blaze"
+        src="3D/blaze/scene.gltf"></a-asset-item>
+        <a-asset-item id="sylvanas"
+        src="3D/sylvanas/scene.gltf"></a-asset-item>
+        <a-asset-item id="dra"
+        src="3D/dra/scene.gltf"></a-asset-item>
+      </a-assets>
+       
+
+      <a-entity gltf-model="#earth" ></a-entity>
+       <a-entity gltf-model="#orc" position="1 0.7 1"></a-entity>
+       <a-entity gltf-model="#arthas" position="-1.6 0.7 5.5" rotation="0 140 0"></a-entity>
+       
+       <a-entity gltf-model="#diablo" position="-21 -0.5 5"
+       height="1" width="1" scale="2 2 2"></a-entity>
+       <a-entity gltf-model="#sylvanas" position="-28 -0.1 13" rotation="0 40 0"
+       ></a-entity>
+      
+        <a-entity gltf-model="#tauren" position="-10 0.7 5" rotation="0 265 0"></a-entity>
+ 
+  
+       <a-entity light="intensity: 0.6; castShadow: true; type: ambient" position="-0.5 1 1" data-aframe-default-light="" aframe-injected=""></a-entity>
+       <a-entity light="intensity: 0.6; castShadow: true; type: ambient" position="-0.5 1 1" data-aframe-default-light="" aframe-injected=""></a-entity>
+    </a-scene>
+  </body>
+</html>
